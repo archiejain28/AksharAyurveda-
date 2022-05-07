@@ -1,0 +1,30 @@
+.table{
+    display: flex;
+    margin-left: 60px;
+}
+.table .tr{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    /* padding: 10px; */
+}
+.tr .td{
+    margin: 5px;   
+}
+
+#footer-section{
+    background-color: #DDDDDD;
+    height: 300px;
+    padding: 50px;
+}
+
+.horizontal-line{
+    border-bottom:solid 1px;
+    font-size: xx-small;
+    padding-bottom: 5px;
+}
+
+.table-headline.td{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
